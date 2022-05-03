@@ -117,4 +117,5 @@ function hashToText(hash){
   return text
 }
 
-console.log(textToHash("selam"))
+console.log(textToHash("test"))
+console.log(hashToText("test"))
