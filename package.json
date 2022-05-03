@@ -1,0 +1,14 @@
+{
+  "name": "hash-text",
+  "version": "0.0.1",
+  "description": "A NodeJS application developed to encrypt or decrypt text",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT"
+}
